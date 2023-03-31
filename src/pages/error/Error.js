@@ -1,8 +1,5 @@
 import './error.scss'
 import Header from "../../components/header/Header";
-
-// what the fuck are you doing ?
-
 export default function NotFound() {
 	return (
 		<div className='notFound'>
